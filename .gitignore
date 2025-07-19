@@ -1,0 +1,27 @@
+# BRD Working Files
+**/working-files/
+**/temp/
+**/*.tmp
+
+# Generated Packages
+BRD-Package-*/
+*-backup-*/
+
+# Personal Notes
+**/personal-notes/
+**/draft/
+
+# System Files
+.DS_Store
+Thumbs.db
+*.log
+
+# PowerShell execution logs
+*.ps1.log
+
+# VS Code settings (optional - uncomment if you want to exclude)
+# .vscode/
+
+# Temporary BRD files
+**/*-DRAFT.brd
+**/*-TEMP.brd

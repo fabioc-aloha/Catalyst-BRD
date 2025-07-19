@@ -1,0 +1,62 @@
+# Microsoft Internal Business Requirements Document Template
+
+## Document Information
+
+| Aspect | Details |
+|--------|---------|
+| **Project Name** | [Enter Project Name] |
+| **Document Version** | 1.0 |
+| **Last Updated** | 2025-07-19 |
+| **Author** |  |
+| **Status** | Draft |
+
+**🎯 Next Required Action**: Document review with [Stakeholder Name] to [Expected Outcome] (See Appendix B: Executive Questions)
+
+## Quick Reference
+
+This Business Requirements Document provides a comprehensive framework for [project description]. It outlines the business objectives, stakeholder requirements, and technical specifications necessary for successful project delivery while ensuring alignment with Microsoft internal transformation initiatives.
+
+| Aspect | Summary |
+|--------|---------|
+| **Business Objective** | [Define primary business goal] |
+| **Project Scope** | [Define what is included/excluded] |
+| **Timeline** | [Target completion date] |
+| **Budget** | [Estimated project cost] |
+| **Success Criteria** | [Key success indicators] |
+
+**🎯 Next Required Action**: Stakeholder validation with [Team Lead] to [Confirm scope and timeline] (See Appendix B: Project Planning Questions)
+
+## Appendix A: RACI Matrix
+
+### RACI Legend
+- **R** (Responsible): Person who performs the work
+- **A** (Accountable): Person who is ultimately answerable for the decision/deliverable
+- **C** (Consulted): Person who provides input and expertise
+- **I** (Informed): Person who needs to be kept informed of progress
+
+### Project Activities RACI
+
+| Activity | Project Manager | Business Analyst | Technical Lead | Stakeholder |
+|----------|----------------|------------------|----------------|-------------|
+| Requirements Gathering | R | A | C | C |
+| Technical Design | C | C | A | I |
+| Development | I | C | R | I |
+| Testing | C | R | A | C |
+| Deployment | A | C | R | I |
+
+## Appendix B: Meeting Questions
+
+### Executive Stakeholder Questions
+| Question | BRD Section Reference | Purpose | Expected Output |
+|----------|----------------------|---------|-----------------|
+| What are the primary business drivers for this initiative? | Business Context | Strategic alignment | Clear business case |
+| What success metrics will validate project value? | Success Metrics | ROI validation | Measurable KPIs |
+
+### **Consolidated Next Required Actions**
+
+| Priority | Action | Owner | Target Date | BRD Section |
+|----------|---------|-------|-------------|-------------|
+| 🔴 Critical | Schedule stakeholder interviews | Business Analyst | [Date] | All sections |
+| 🟡 High | Define technical requirements | Technical Lead | [Date] | Technical Architecture |
+| 🟢 Medium | Create project timeline | Project Manager | [Date] | Project Planning |
+

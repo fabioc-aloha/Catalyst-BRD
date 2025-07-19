@@ -1,0 +1,318 @@
+# Business Process Mapping Template
+
+## Document Information
+
+| Aspect               | Details                                 |
+| -------------------- | --------------------------------------- |
+| **Process Name**     | [Enter Process Name]                    |
+| **Process Owner**    | [Enter Process Owner]                   |
+| **Document Version** | 1.0                                     |
+| **Last Updated**     | [Current Date]                          |
+| **Business Analyst** | [Enter BA Name]                         |
+| **Status**           | Current State/Future State/Gap Analysis |
+
+**🎯 Next Required Action**: Process walkthrough with [Process Owner] to [Validate current state mapping] (See Appendix B: Validation Questions)
+
+## Process Overview
+
+### Process Summary
+| Attribute     | Details                                  |
+| ------------- | ---------------------------------------- |
+| **Purpose**   | [Why does this process exist?]           |
+| **Trigger**   | [What starts this process?]              |
+| **Output**    | [What is produced by this process?]      |
+| **Frequency** | [How often does this process run?]       |
+| **Volume**    | [How many instances per day/week/month?] |
+| **Duration**  | [How long does the process take?]        |
+
+### Key Stakeholders
+| Role     | Responsibility | Input Provided      | Output Received |
+| -------- | -------------- | ------------------- | --------------- |
+| [Role 1] | [What they do] | [What they provide] | [What they get] |
+| [Role 2] | [What they do] | [What they provide] | [What they get] |
+| [Role 3] | [What they do] | [What they provide] | [What they get] |
+
+**🎯 Next Required Action**: Stakeholder validation with [Key Users] to [Confirm role definitions] (See Appendix B: Stakeholder Questions)
+
+## Current State Process Flow
+
+### High-Level Process Steps
+1. **[Step Name]** - [Brief description]
+2. **[Step Name]** - [Brief description]
+3. **[Step Name]** - [Brief description]
+4. **[Step Name]** - [Brief description]
+5. **[Step Name]** - [Brief description]
+
+### Detailed Process Map
+
+#### Step 1: [Step Name]
+| Attribute    | Details                   |
+| ------------ | ------------------------- |
+| **Actor**    | [Who performs this step]  |
+| **Action**   | [What is done]            |
+| **Input**    | [What is needed to start] |
+| **Output**   | [What is produced]        |
+| **System**   | [Systems/tools used]      |
+| **Duration** | [Time to complete]        |
+| **Volume**   | [How many per period]     |
+
+**Decision Points**:
+- [Decision criteria]
+- [Decision outcomes]
+- [Exception handling]
+
+**Pain Points**:
+- [Current issues/challenges]
+- [Inefficiencies]
+- [Manual workarounds]
+
+#### Step 2: [Step Name]
+| Attribute    | Details                   |
+| ------------ | ------------------------- |
+| **Actor**    | [Who performs this step]  |
+| **Action**   | [What is done]            |
+| **Input**    | [What is needed to start] |
+| **Output**   | [What is produced]        |
+| **System**   | [Systems/tools used]      |
+| **Duration** | [Time to complete]        |
+| **Volume**   | [How many per period]     |
+
+**Decision Points**:
+- [Decision criteria]
+- [Decision outcomes]
+- [Exception handling]
+
+**Pain Points**:
+- [Current issues/challenges]
+- [Inefficiencies]
+- [Manual workarounds]
+
+#### Step 3: [Step Name]
+| Attribute    | Details                   |
+| ------------ | ------------------------- |
+| **Actor**    | [Who performs this step]  |
+| **Action**   | [What is done]            |
+| **Input**    | [What is needed to start] |
+| **Output**   | [What is produced]        |
+| **System**   | [Systems/tools used]      |
+| **Duration** | [Time to complete]        |
+| **Volume**   | [How many per period]     |
+
+**Decision Points**:
+- [Decision criteria]
+- [Decision outcomes]
+- [Exception handling]
+
+**Pain Points**:
+- [Current issues/challenges]
+- [Inefficiencies]
+- [Manual workarounds]
+
+**🎯 Next Required Action**: Process timing validation with [Process Participants] to [Confirm duration estimates] (See Appendix B: Timing Questions)
+
+## Systems and Technology
+
+### System Interactions
+| System     | Role in Process | Data Input      | Data Output     | Integration Type |
+| ---------- | --------------- | --------------- | --------------- | ---------------- |
+| [System 1] | [How it's used] | [Data provided] | [Data produced] | Manual/API/Batch |
+| [System 2] | [How it's used] | [Data provided] | [Data produced] | Manual/API/Batch |
+| [System 3] | [How it's used] | [Data provided] | [Data produced] | Manual/API/Batch |
+
+### Data Flow
+```
+[Source System] → [Data Element] → [Processing Step] → [Target System]
+```
+
+### Technology Challenges
+- **Integration Issues**: [System connectivity problems]
+- **Data Quality**: [Data accuracy/completeness issues]
+- **Performance**: [Speed/capacity limitations]
+- **Usability**: [User interface challenges]
+- **Reliability**: [System availability issues]
+
+**🎯 Next Required Action**: Technical assessment with [IT Team] to [Validate system capabilities] (See Appendix B: Technical Questions)
+
+## Performance Metrics
+
+### Current Performance
+| Metric                    | Current Value    | Target Value    | Gap          | Measurement Method |
+| ------------------------- | ---------------- | --------------- | ------------ | ------------------ |
+| **Cycle Time**            | [Current time]   | [Target time]   | [Difference] | [How measured]     |
+| **Throughput**            | [Current volume] | [Target volume] | [Difference] | [How measured]     |
+| **Quality**               | [Current %]      | [Target %]      | [Difference] | [How measured]     |
+| **Cost per Transaction**  | [Current cost]   | [Target cost]   | [Difference] | [How measured]     |
+| **Customer Satisfaction** | [Current score]  | [Target score]  | [Difference] | [How measured]     |
+
+### Process Efficiency Analysis
+- **Value-Added Time**: [Time spent on value-adding activities]
+- **Non-Value-Added Time**: [Time spent on waste/rework]
+- **Wait Time**: [Time spent waiting for inputs/approvals]
+- **Processing Time**: [Active working time]
+- **Total Lead Time**: [End-to-end process time]
+
+**Efficiency Ratio**: [Value-Added Time / Total Lead Time] = [%]
+
+**🎯 Next Required Action**: Performance baseline establishment with [Operations Team] to [Confirm current metrics] (See Appendix B: Metrics Questions)
+
+## Risk and Compliance
+
+### Process Risks
+| Risk               | Probability | Impact | Current Controls      | Risk Level |
+| ------------------ | ----------- | ------ | --------------------- | ---------- |
+| [Risk description] | H/M/L       | H/M/L  | [How mitigated today] | H/M/L      |
+| [Risk description] | H/M/L       | H/M/L  | [How mitigated today] | H/M/L      |
+| [Risk description] | H/M/L       | H/M/L  | [How mitigated today] | H/M/L      |
+
+### Compliance Requirements
+- **Regulatory**: [SOX, GDPR, HIPAA, etc.]
+- **Internal Policy**: [Company policies that apply]
+- **Industry Standards**: [Industry best practices]
+- **Audit Requirements**: [What auditors check]
+
+### Control Framework
+| Control Type   | Control Description | Owner           | Testing Frequency |
+| -------------- | ------------------- | --------------- | ----------------- |
+| **Preventive** | [Prevents issues]   | [Control owner] | [Test schedule]   |
+| **Detective**  | [Identifies issues] | [Control owner] | [Test schedule]   |
+| **Corrective** | [Fixes issues]      | [Control owner] | [Test schedule]   |
+
+**🎯 Next Required Action**: Compliance review with [Compliance Team] to [Validate control effectiveness] (See Appendix B: Compliance Questions)
+
+## Future State Vision
+
+### Improvement Opportunities
+| Category            | Current Issue        | Proposed Solution      | Expected Benefit      |
+| ------------------- | -------------------- | ---------------------- | --------------------- |
+| **Automation**      | [Manual activity]    | [Automation approach]  | [Time/cost saving]    |
+| **Integration**     | [System gap]         | [Integration solution] | [Efficiency gain]     |
+| **Standardization** | [Process variation]  | [Standard approach]    | [Quality improvement] |
+| **Elimination**     | [Non-value activity] | [Remove/simplify]      | [Time saving]         |
+
+### Future State Process Flow
+1. **[New Step 1]** - [How it will work]
+2. **[New Step 2]** - [How it will work]
+3. **[New Step 3]** - [How it will work]
+4. **[New Step 4]** - [How it will work]
+
+### Expected Performance Improvements
+| Metric           | Current   | Future Target | Improvement     |
+| ---------------- | --------- | ------------- | --------------- |
+| **Cycle Time**   | [Current] | [Target]      | [% improvement] |
+| **Cost**         | [Current] | [Target]      | [% reduction]   |
+| **Quality**      | [Current] | [Target]      | [% improvement] |
+| **Satisfaction** | [Current] | [Target]      | [% improvement] |
+
+**🎯 Next Required Action**: Future state design workshop with [Process Team] to [Finalize improvement approach] (See Appendix B: Design Questions)
+
+## Implementation Roadmap
+
+### Change Impact Assessment
+| Stakeholder Group | Impact Level    | Change Required | Support Needed   |
+| ----------------- | --------------- | --------------- | ---------------- |
+| [Group 1]         | High/Medium/Low | [What changes]  | [Training/tools] |
+| [Group 2]         | High/Medium/Low | [What changes]  | [Training/tools] |
+| [Group 3]         | High/Medium/Low | [What changes]  | [Training/tools] |
+
+### Implementation Phases
+#### Phase 1: Foundation ([Duration])
+- [Activity 1]
+- [Activity 2]
+- [Activity 3]
+
+#### Phase 2: Core Changes ([Duration])
+- [Activity 1]
+- [Activity 2]
+- [Activity 3]
+
+#### Phase 3: Optimization ([Duration])
+- [Activity 1]
+- [Activity 2]
+- [Activity 3]
+
+### Success Criteria
+- [ ] [Implementation success measure]
+- [ ] [Performance improvement achieved]
+- [ ] [User adoption target met]
+- [ ] [ROI target achieved]
+
+**🎯 Next Required Action**: Implementation planning with [Change Team] to [Develop detailed project plan] (See Appendix B: Implementation Questions)
+
+## Appendix A: RACI Matrix - Process Management
+
+### Process Analysis RACI
+| Activity                  | Process Owner | Business Analyst | IT Lead | End Users | Management |
+| ------------------------- | ------------- | ---------------- | ------- | --------- | ---------- |
+| Current State Mapping     | A             | R                | C       | C         | I          |
+| Pain Point Identification | R             | A                | C       | R         | C          |
+| Performance Measurement   | R             | A                | C       | C         | C          |
+| Future State Design       | A             | R                | R       | C         | C          |
+| Implementation Planning   | C             | A                | R       | C         | R          |
+
+## Appendix B: Process Analysis Questions
+
+### Validation Questions
+| Question                                               | BRD Section Reference | Purpose          | Expected Output            |
+| ------------------------------------------------------ | --------------------- | ---------------- | -------------------------- |
+| Is this how the process actually works in practice?    | Current State         | Process accuracy | Validated process map      |
+| What variations exist in different locations/teams?    | Process Variations    | Completeness     | Comprehensive process view |
+| What happens when things go wrong or exceptions occur? | Exception Handling    | Risk analysis    | Exception process map      |
+
+### Stakeholder Questions
+| Question                                                   | BRD Section Reference | Purpose            | Expected Output         |
+| ---------------------------------------------------------- | --------------------- | ------------------ | ----------------------- |
+| Who else is involved that we haven't identified?           | Stakeholder Analysis  | Complete mapping   | Full stakeholder matrix |
+| What information/approvals do you need that you don't get? | Process Gaps          | Gap identification | Requirements gaps       |
+| How do you measure success in this process?                | Performance Metrics   | Success definition | KPI framework           |
+
+### Timing Questions
+| Question                                | BRD Section Reference | Purpose                   | Expected Output   |
+| --------------------------------------- | --------------------- | ------------------------- | ----------------- |
+| How long does each step typically take? | Process Timing        | Baseline establishment    | Timing baseline   |
+| What causes delays in this process?     | Pain Points           | Bottleneck identification | Delay root causes |
+| When is this process busiest/slowest?   | Volume Analysis       | Capacity planning         | Volume patterns   |
+
+### Technical Questions
+| Question                                          | BRD Section Reference    | Purpose                    | Expected Output               |
+| ------------------------------------------------- | ------------------------ | -------------------------- | ----------------------------- |
+| Which systems work well and which cause problems? | System Assessment        | Technology evaluation      | System effectiveness analysis |
+| What data is missing or incorrect?                | Data Quality             | Data requirements          | Data improvement plan         |
+| Where do manual workarounds exist?                | Automation Opportunities | Improvement identification | Automation roadmap            |
+
+### Metrics Questions
+| Question                                          | BRD Section Reference | Purpose                | Expected Output      |
+| ------------------------------------------------- | --------------------- | ---------------------- | -------------------- |
+| How do you currently measure process performance? | Current Metrics       | Baseline establishment | Metrics framework    |
+| What would improved performance look like?        | Future Targets        | Goal setting           | Performance targets  |
+| How would you know if the process was failing?    | Risk Indicators       | Monitoring setup       | Early warning system |
+
+### Compliance Questions
+| Question                                            | BRD Section Reference   | Purpose                    | Expected Output              |
+| --------------------------------------------------- | ----------------------- | -------------------------- | ---------------------------- |
+| What regulations or policies apply to this process? | Compliance Requirements | Requirement identification | Compliance framework         |
+| How do you ensure compliance today?                 | Control Framework       | Control assessment         | Control effectiveness review |
+| What would auditors look for in this process?       | Audit Readiness         | Audit preparation          | Audit requirements           |
+
+### Design Questions
+| Question                                 | BRD Section Reference | Purpose             | Expected Output      |
+| ---------------------------------------- | --------------------- | ------------------- | -------------------- |
+| What would the ideal process look like?  | Future State Vision   | Design requirements | Future state design  |
+| What constraints must we work within?    | Design Constraints    | Realistic planning  | Constraint framework |
+| How will we measure improvement success? | Success Criteria      | Success definition  | Improvement KPIs     |
+
+### Implementation Questions
+| Question                                          | BRD Section Reference   | Purpose             | Expected Output       |
+| ------------------------------------------------- | ----------------------- | ------------------- | --------------------- |
+| What training will be needed for the new process? | Change Impact           | Training planning   | Training requirements |
+| How will we transition from old to new process?   | Implementation Strategy | Transition planning | Transition approach   |
+| What could go wrong during implementation?        | Implementation Risks    | Risk planning       | Risk mitigation plan  |
+
+### **Consolidated Next Required Actions**
+
+| Priority   | Action                            | Owner            | Target Date | BRD Section         |
+| ---------- | --------------------------------- | ---------------- | ----------- | ------------------- |
+| 🔴 Critical | Complete current state validation | Business Analyst | [Date]      | Current State       |
+| 🔴 Critical | Establish performance baseline    | Process Owner    | [Date]      | Performance Metrics |
+| 🟡 High     | Design future state process       | Business Analyst | [Date]      | Future State        |
+| 🟡 High     | Assess technology requirements    | IT Lead          | [Date]      | Systems Analysis    |
+| 🟢 Medium   | Develop implementation roadmap    | Project Manager  | [Date]      | Implementation      |
