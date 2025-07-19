@@ -33,12 +33,6 @@ src/
 **/*.tfvars
 **/*.tfstate*
 
-# VS Code auto-generated images and assets
-# MINION-BRD.png  # Commented out to allow the banner image
-**/minion-temp*.png
-**/minion-draft*.png
-**/*-generated.*
-
 # Development and testing directories
 test/
 tests/
