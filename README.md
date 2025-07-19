@@ -1,6 +1,6 @@
 # Microsoft Internal Business Requirements & Technical Documentation Cognitive Architecture
 
-![Banner](./banner2.png)
+![Banner](./MINION-BRD.png)
 
 ## 🎯 Project Overview
 

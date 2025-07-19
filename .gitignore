@@ -25,3 +25,23 @@ Thumbs.db
 # Temporary BRD files
 **/*-DRAFT.brd
 **/*-TEMP.brd
+
+# Auto-generated development files
+src/
+**/infrastructure/
+**/*.tf
+**/*.tfvars
+**/*.tfstate*
+
+# VS Code auto-generated images and assets
+# MINION-BRD.png  # Commented out to allow the banner image
+**/minion-temp*.png
+**/minion-draft*.png
+**/*-generated.*
+
+# Development and testing directories
+test/
+tests/
+dev/
+development/
+sandbox/
